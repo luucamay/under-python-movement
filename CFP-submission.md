@@ -9,7 +9,7 @@ Github: https://github.com/luucamay/pythoning (Mas de 100 scripts escritos en py
 CV: https://www.linkedin.com/in/luucamay/
 
 ## Descripcion:
-Nuestros cuerpos se mueven desde siempre, cuando somos pequeños tenemos patrones de movimientos muy primitivos, que luego con el pasar del tiempo se modifican, al ser parte de comunidades, también estas comunidades heredan el movimiento de nuestros cuerpos y por lo tanto también se mueven de acuerdo a los movimientos heredados de sus miembros. Es así que nacen también las comunidades de tecnología, entre ellas una de las más populares es la comunidad de Python. En esta charla veremos cuál es el movimiento de la comunidad de Python y como se mueve desde cpython.
+Nuestros cuerpos se mueven desde siempre, cuando somos pequeños tenemos patrones de movimientos muy primitivos, que luego con el pasar del tiempo se modifican, al ser parte de comunidades, también estas comunidades heredan el movimiento de sus miembros y por lo tanto también se mueven como una mezcla de estos movimientos.Las comunidades de tecnología, entre ellas una de las más populares es la comunidad de Python, también tienen estas mezclas de movimientos. En esta charla veremos cuál es el movimiento de la comunidad de Python y como se mueve desde cpython.
 ## Nivel:
 Novato | Intermedio
 ## Presentacion: 
